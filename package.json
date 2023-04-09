@@ -1,7 +1,7 @@
 {
-  "name": "http://Robbostein.github.io/react-app",
+  "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": ".",
+  "homepage": "http://Robbostein.github.io/react-app",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
